@@ -1,0 +1,767 @@
+<?xml version="1.0"?>
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--                                                                                            -->
+<!--  By JC Rueda --- github.com/disketteomelette                                               -->
+<!--                                                                                            -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<ArrayOfRangeEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+       <RangeEntry minFrequency="9000" maxFrequency="3000" mode="NFM" step="10" color="purple">METEOROLOGIA Y RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="14000" maxFrequency="95000" mode="NFM" step="10" color="purple">FIJO-MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="9000" maxFrequency="3000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS</RangeEntry>
+       <RangeEntry minFrequency="3000" maxFrequency="14000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS</RangeEntry>
+       <RangeEntry minFrequency="14000" maxFrequency="95000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS</RangeEntry>
+       <RangeEntry minFrequency="95000" maxFrequency="5000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS</RangeEntry>
+       <RangeEntry minFrequency="70000" maxFrequency="72000" mode="NFM" step="10" color="purple">RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="70000" maxFrequency="90000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO - RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="70000" maxFrequency="72000" mode="NFM" step="10" color="purple">RADIONAVEGACION - FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="70000" maxFrequency="72000" mode="NFM" step="10" color="purple">RADIONAVEGACION R</RangeEntry>
+       <RangeEntry minFrequency="72000" maxFrequency="84000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="84000" maxFrequency="86000" mode="NFM" step="10" color="purple">RADIONAVEGACION - FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="84000" maxFrequency="86000" mode="NFM" step="10" color="purple">RADIONAVEGACION R</RangeEntry>
+       <RangeEntry minFrequency="86000" maxFrequency="90000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="90000" maxFrequency="110000" mode="NFM" step="10" color="purple">RADIONAVEGACION FIJO R</RangeEntry>
+       <RangeEntry minFrequency="84000" maxFrequency="86000" mode="NFM" step="10" color="purple">RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="86000" maxFrequency="90000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO - RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="90000" maxFrequency="110000" mode="NFM" step="10" color="purple">RADIONAVEGACION FIJO</RangeEntry>
+       <RangeEntry minFrequency="110000" maxFrequency="112000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="112000" maxFrequency="115000" mode="NFM" step="10" color="purple">RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="112000" maxFrequency="6000" mode="NFM" step="10" color="purple">RADIONAVEGACION FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="110000" maxFrequency="130000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="110000" maxFrequency="112000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="112000" maxFrequency="115000" mode="NFM" step="10" color="purple">RADIONAVEGACION R</RangeEntry>
+       <RangeEntry minFrequency="115000" maxFrequency="6000" mode="NFM" step="10" color="purple">RADIONAVEGACION MOVIL MARITIMO FIJO</RangeEntry>
+       <RangeEntry minFrequency="126000" maxFrequency="129000" mode="NFM" step="10" color="purple">RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="126000" maxFrequency="129000" mode="NFM" step="10" color="purple">RADIONAVEGACION - FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="126000" maxFrequency="129000" mode="NFM" step="10" color="purple">RADIONAVEGACION R</RangeEntry>
+       <RangeEntry minFrequency="129000" maxFrequency="130000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="129000" maxFrequency="130000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="129000" maxFrequency="130000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="130000" maxFrequency="7000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="130000" maxFrequency="7000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO USOS</RangeEntry>
+       <RangeEntry minFrequency="160000" maxFrequency="190000" mode="NFM" step="10" color="purple">FIJO RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="190000" maxFrequency="200000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5000" maxFrequency="255000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="160000" maxFrequency="190000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="255000" maxFrequency="5000" mode="NFM" step="10" color="purple">RADIODIFUSION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="200000" maxFrequency="275000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="200000" maxFrequency="285000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="275000" maxFrequency="285000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA MOVIL AERONAUTICO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="285000" maxFrequency="315000" mode="NFM" step="10" color="purple">RADIOFAROS AERONAUTICO Y MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="255000" maxFrequency="5000" mode="NFM" step="10" color="purple">RADIODIFUSION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="315000" maxFrequency="325000" mode="NFM" step="10" color="purple">RADIOFAROS AERONAUTICO Y MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="325000" maxFrequency="335000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA MOVIL AERONAUTICO RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="325000" maxFrequency="405000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA (R) MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="405000" maxFrequency="415000" mode="NFM" step="10" color="purple">RADIONAVEGACION Y MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="415000" maxFrequency="435000" mode="NFM" step="10" color="purple">MOVIL MARITIMO Y RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="415000" maxFrequency="472000" mode="NFM" step="10" color="purple">MOVIL MARITIMO Y RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="415000" maxFrequency="435000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="435000" maxFrequency="472000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="472000" maxFrequency="479000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - AFICIONADOS - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="479000" maxFrequency="495000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION AERONAUTICA M</RangeEntry>
+       <RangeEntry minFrequency="479000" maxFrequency="495000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="479000" maxFrequency="495000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="495000" maxFrequency="505000" mode="NFM" step="10" color="purple">MOVIL MARITIMO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="505000" maxFrequency="510000" mode="NFM" step="10" color="purple">MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="510000" maxFrequency="525000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="525000" maxFrequency="535000" mode="NFM" step="10" color="purple">RADIODIFUSION - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="505000" maxFrequency="5000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="505000" maxFrequency="5000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="535000" maxFrequency="1605000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="495000" maxFrequency="505000" mode="NFM" step="10" color="purple">MOVIL MARITIMO - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="535000" maxFrequency="5000" mode="NFM" step="10" color="purple">RADIODIFUSION M</RangeEntry>
+       <RangeEntry minFrequency="5000" maxFrequency="1625000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="1605000" maxFrequency="1625000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="1625000" maxFrequency="1635000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1625000" maxFrequency="1705000" mode="NFM" step="10" color="purple">RADIODIFUSION - FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1625000" maxFrequency="1635000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION R</RangeEntry>
+       <RangeEntry minFrequency="1635000" maxFrequency="1800000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="1705000" maxFrequency="1800000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="1800000" maxFrequency="1810000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1800000" maxFrequency="2000000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="1850000" maxFrequency="2000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="1850000" maxFrequency="2000000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="2000000" maxFrequency="2025000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="2000000" maxFrequency="2065000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1800000" maxFrequency="1850000" mode="NFM" step="10" color="purple">AFICIONADOS USOS</RangeEntry>
+       <RangeEntry minFrequency="1800000" maxFrequency="1810000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION R</RangeEntry>
+       <RangeEntry minFrequency="1810000" maxFrequency="1830000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="1830000" maxFrequency="1850000" mode="NFM" step="10" color="purple">AFICIONADOS E</RangeEntry>
+       <RangeEntry minFrequency="1850000" maxFrequency="2000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="2000000" maxFrequency="2025000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="2025000" maxFrequency="2045000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) METEOROLOGIA</RangeEntry>
+       <RangeEntry minFrequency="2025000" maxFrequency="2045000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) METEOROLOGIA</RangeEntry>
+       <RangeEntry minFrequency="2045000" maxFrequency="2160000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="2160000" maxFrequency="2170000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="2065000" maxFrequency="2107000" mode="NFM" step="10" color="purple">MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="2045000" maxFrequency="2160000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="2160000" maxFrequency="2170000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION R</RangeEntry>
+       <RangeEntry minFrequency="2170000" maxFrequency="5000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="2107000" maxFrequency="2170000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2170000" maxFrequency="5000" mode="NFM" step="10" color="purple">MOVIL MARITIMO ATRIBUCION A LOS SERVICIOS SEGUN EL RR DE LA UIT</RangeEntry>
+       <RangeEntry minFrequency="5000" maxFrequency="5000" mode="NFM" step="10" color="purple">MOVIL (SOCORRO Y LLAMADA)</RangeEntry>
+       <RangeEntry minFrequency="2194000" maxFrequency="2300000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="2194000" maxFrequency="2300000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2300000" maxFrequency="2498000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2300000" maxFrequency="2495000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2194000" maxFrequency="2300000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="2300000" maxFrequency="2498000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2501000" maxFrequency="2502000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="2502000" maxFrequency="2625000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="2502000" maxFrequency="2505000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS</RangeEntry>
+       <RangeEntry minFrequency="2501000" maxFrequency="2502000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="2502000" maxFrequency="2625000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="2625000" maxFrequency="2650000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="2625000" maxFrequency="2650000" mode="NFM" step="10" color="purple">MOVIL MARITIMO RADIONAVEGACION MARITIMA M</RangeEntry>
+       <RangeEntry minFrequency="2650000" maxFrequency="2850000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="2650000" maxFrequency="2850000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="2850000" maxFrequency="3025000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="3025000" maxFrequency="3155000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="3155000" maxFrequency="3200000" mode="NFM" step="10" color="purple">MOVIL SALVO MOVIL AERONAUTICO (R) FIJO M</RangeEntry>
+       <RangeEntry minFrequency="2505000" maxFrequency="2850000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2850000" maxFrequency="3025000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="3025000" maxFrequency="3155000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="3155000" maxFrequency="3200000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="3200000" maxFrequency="3230000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="3400000" maxFrequency="3500000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="3800000" maxFrequency="3900000" mode="NFM" step="10" color="purple">FIJO MOVIL AERONAUTICO (OR) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="3500000" maxFrequency="3750000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="3500000" maxFrequency="3800000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="3500000" maxFrequency="3900000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="3750000" maxFrequency="4000000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="3230000" maxFrequency="3400000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="3400000" maxFrequency="3500000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="3500000" maxFrequency="3800000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="3800000" maxFrequency="3900000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="3900000" maxFrequency="3950000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="3900000" maxFrequency="3950000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="3900000" maxFrequency="3950000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="3950000" maxFrequency="4000000" mode="NFM" step="10" color="purple">FIJO RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="3950000" maxFrequency="4000000" mode="NFM" step="10" color="purple">FIJO RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="3950000" maxFrequency="4000000" mode="NFM" step="10" color="purple">FIJO RADIODIFUSION M</RangeEntry>
+       <RangeEntry minFrequency="4000000" maxFrequency="4063000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="4000000" maxFrequency="4063000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="4063000" maxFrequency="4438000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="4438000" maxFrequency="4488000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="4438000" maxFrequency="4488000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="4488000" maxFrequency="4650000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="4488000" maxFrequency="4650000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="4650000" maxFrequency="4700000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="4700000" maxFrequency="4750000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="4750000" maxFrequency="4850000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE MOVIL AERONAUTICO (OR) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="4438000" maxFrequency="4488000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="4488000" maxFrequency="4650000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="4750000" maxFrequency="4850000" mode="NFM" step="10" color="purple">FIJO MOVIL AERONAUTICO (OR) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="4438000" maxFrequency="4488000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="4750000" maxFrequency="4850000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="4750000" maxFrequency="4850000" mode="NFM" step="10" color="purple">FIJO RADIODIFUSION 5.113</RangeEntry>
+       <RangeEntry minFrequency="4850000" maxFrequency="4995000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="4850000" maxFrequency="4995000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="5005000" maxFrequency="5060000" mode="NFM" step="10" color="purple">R R M</RangeEntry>
+       <RangeEntry minFrequency="5060000" maxFrequency="5250000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="5250000" maxFrequency="5275000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="5275000" maxFrequency="5000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="5450000" maxFrequency="5480000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="5060000" maxFrequency="5250000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="5250000" maxFrequency="5275000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="5450000" maxFrequency="5480000" mode="NFM" step="10" color="purple">FIJO MOVIL AERONAUTICO (OR) MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="5003000" maxFrequency="5005000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="5005000" maxFrequency="5060000" mode="NFM" step="10" color="purple">FIJO RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="5250000" maxFrequency="5275000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="5450000" maxFrequency="5480000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) OBSERVACIONES</RangeEntry>
+       <RangeEntry minFrequency="5250000" maxFrequency="5275000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="5450000" maxFrequency="5480000" mode="NFM" step="10" color="purple">FIJO MOVIL AERONAUTICO (OR) MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="5480000" maxFrequency="5680000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="5680000" maxFrequency="5730000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="5730000" maxFrequency="5900000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE M</RangeEntry>
+       <RangeEntry minFrequency="5900000" maxFrequency="5950000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="5950000" maxFrequency="6200000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="6200000" maxFrequency="6525000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="6525000" maxFrequency="6685000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="6685000" maxFrequency="6765000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="6765000" maxFrequency="7000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="7000000" maxFrequency="7100000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="7100000" maxFrequency="7200000" mode="NFM" step="10" color="purple">AFICIONADOS E</RangeEntry>
+       <RangeEntry minFrequency="5680000" maxFrequency="5730000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="5730000" maxFrequency="5900000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE USOS</RangeEntry>
+       <RangeEntry minFrequency="5730000" maxFrequency="5900000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="5730000" maxFrequency="5900000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="5900000" maxFrequency="5950000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="5950000" maxFrequency="6200000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="6200000" maxFrequency="6525000" mode="NFM" step="10" color="purple">MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="6765000" maxFrequency="7000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="7000000" maxFrequency="7100000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="7100000" maxFrequency="7200000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="7200000" maxFrequency="7300000" mode="NFM" step="10" color="purple">AFICIONADOS USOS</RangeEntry>
+       <RangeEntry minFrequency="7200000" maxFrequency="7300000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="7200000" maxFrequency="7300000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="7300000" maxFrequency="7400000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="7400000" maxFrequency="7450000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="7300000" maxFrequency="7400000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="7400000" maxFrequency="7450000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="7400000" maxFrequency="7450000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="7400000" maxFrequency="7450000" mode="NFM" step="10" color="purple">RADIODIFUSION Y SERVICIOS RR UIT</RangeEntry>
+       <RangeEntry minFrequency="7450000" maxFrequency="8100000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="8100000" maxFrequency="8195000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="8195000" maxFrequency="8815000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="8815000" maxFrequency="8965000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="8965000" maxFrequency="9040000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="9040000" maxFrequency="9305000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="9400000" maxFrequency="9500000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="9040000" maxFrequency="9305000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="9400000" maxFrequency="9500000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="9500000" maxFrequency="9900000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="9900000" maxFrequency="9995000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="10003000" maxFrequency="10005000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS, INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="10005000" maxFrequency="10100000" mode="NFM" step="10" color="purple">USOS</RangeEntry>
+       <RangeEntry minFrequency="9500000" maxFrequency="9900000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="9900000" maxFrequency="9995000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="10003000" maxFrequency="10005000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="10005000" maxFrequency="10100000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="10100000" maxFrequency="10150000" mode="NFM" step="10" color="purple">FIJO AFICIONADOS M</RangeEntry>
+       <RangeEntry minFrequency="10150000" maxFrequency="11175000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="11175000" maxFrequency="11275000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="11400000" maxFrequency="11600000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="11600000" maxFrequency="11650000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="11650000" maxFrequency="12050000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="12050000" maxFrequency="12100000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="12100000" maxFrequency="12230000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="12230000" maxFrequency="13200000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="11650000" maxFrequency="12050000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="12050000" maxFrequency="12100000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="13200000" maxFrequency="13260000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="13260000" maxFrequency="13360000" mode="NFM" step="10" color="purple">MOVIL</RangeEntry>
+       <RangeEntry minFrequency="13260000" maxFrequency="13360000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="13360000" maxFrequency="13410000" mode="NFM" step="10" color="purple">FIJO RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="13360000" maxFrequency="13410000" mode="NFM" step="10" color="purple">FIJO FIJO RADIOASTRONOMIA M</RangeEntry>
+       <RangeEntry minFrequency="13410000" maxFrequency="13450000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="13450000" maxFrequency="13550000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="13450000" maxFrequency="13550000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="13570000" maxFrequency="13600000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="13600000" maxFrequency="13800000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="13800000" maxFrequency="13870000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="13870000" maxFrequency="14000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="13410000" maxFrequency="13450000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="13450000" maxFrequency="13550000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="13550000" maxFrequency="13570000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="13570000" maxFrequency="13600000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="13600000" maxFrequency="13800000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="13800000" maxFrequency="13870000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="13870000" maxFrequency="14000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="14000000" maxFrequency="14250000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="14250000" maxFrequency="14350000" mode="NFM" step="10" color="purple">AFICIONADOS E</RangeEntry>
+       <RangeEntry minFrequency="14350000" maxFrequency="14990000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="14250000" maxFrequency="14350000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="15005000" maxFrequency="15010000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="15005000" maxFrequency="15010000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="15010000" maxFrequency="15100000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="15100000" maxFrequency="15600000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="15600000" maxFrequency="15800000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="15600000" maxFrequency="15800000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="15800000" maxFrequency="16100000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="15800000" maxFrequency="16100000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="16100000" maxFrequency="16200000" mode="NFM" step="10" color="purple">FIJO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="16360000" maxFrequency="17410000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="17410000" maxFrequency="17480000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="17480000" maxFrequency="17550000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="17410000" maxFrequency="17480000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="17480000" maxFrequency="17550000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="17550000" maxFrequency="17900000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="17550000" maxFrequency="17900000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="17900000" maxFrequency="17970000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="17970000" maxFrequency="18030000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) R</RangeEntry>
+       <RangeEntry minFrequency="17970000" maxFrequency="18030000" mode="NFM" step="10" color="purple">ATRIBUCION A LOS SERVICIOS SEGUN EL RR DE LA UIT ATRIBUCION NACIONAL</RangeEntry>
+       <RangeEntry minFrequency="18030000" maxFrequency="18052000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="18030000" maxFrequency="18052000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="18052000" maxFrequency="18068000" mode="NFM" step="10" color="purple">FIJO INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="18068000" maxFrequency="18168000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="18168000" maxFrequency="18780000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="18780000" maxFrequency="18900000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="18900000" maxFrequency="19020000" mode="NFM" step="10" color="purple">RADIODIFUSION R</RangeEntry>
+       <RangeEntry minFrequency="19020000" maxFrequency="19680000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="19680000" maxFrequency="19800000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="19800000" maxFrequency="19990000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="19990000" maxFrequency="19995000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="18068000" maxFrequency="18168000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="18900000" maxFrequency="19020000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="20010000" maxFrequency="21000000" mode="NFM" step="10" color="purple">USOS</RangeEntry>
+       <RangeEntry minFrequency="20010000" maxFrequency="21000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="21000000" maxFrequency="21450000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="21450000" maxFrequency="21850000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="21850000" maxFrequency="21870000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="21870000" maxFrequency="21924000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="21924000" maxFrequency="22000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) R</RangeEntry>
+       <RangeEntry minFrequency="22000000" maxFrequency="22855000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="22855000" maxFrequency="23000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="23000000" maxFrequency="23200000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R)</RangeEntry>
+       <RangeEntry minFrequency="22855000" maxFrequency="23000000" mode="NFM" step="10" color="purple">FIJO M</RangeEntry>
+       <RangeEntry minFrequency="23000000" maxFrequency="23200000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO (R) M</RangeEntry>
+       <RangeEntry minFrequency="23200000" maxFrequency="23350000" mode="NFM" step="10" color="purple">FIJO MOVIL AERONAUTICO (OR) M</RangeEntry>
+       <RangeEntry minFrequency="23200000" maxFrequency="23350000" mode="NFM" step="10" color="purple">FIJO - MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="23350000" maxFrequency="24000000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="24000000" maxFrequency="24450000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE M</RangeEntry>
+       <RangeEntry minFrequency="24450000" maxFrequency="24600000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="24600000" maxFrequency="24890000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="24890000" maxFrequency="24990000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="24450000" maxFrequency="24650000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="24600000" maxFrequency="24890000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE OBSERVACIONES</RangeEntry>
+       <RangeEntry minFrequency="24450000" maxFrequency="24600000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="24650000" maxFrequency="24890000" mode="NFM" step="10" color="purple">FIJO MOVIL TERRESTRE</RangeEntry>
+       <RangeEntry minFrequency="24890000" maxFrequency="24990000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="25005000" maxFrequency="25010000" mode="NFM" step="10" color="purple">FRECUENCIAS PATRON Y SEÑALES HORARIAS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="25010000" maxFrequency="25070000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="25010000" maxFrequency="25070000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO R</RangeEntry>
+       <RangeEntry minFrequency="25070000" maxFrequency="25210000" mode="NFM" step="10" color="purple">USOS OBSERVACIONES</RangeEntry>
+       <RangeEntry minFrequency="25070000" maxFrequency="25210000" mode="NFM" step="10" color="purple">MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="25210000" maxFrequency="25550000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="25210000" maxFrequency="25550000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO FIJO</RangeEntry>
+       <RangeEntry minFrequency="25550000" maxFrequency="25670000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA R</RangeEntry>
+       <RangeEntry minFrequency="25670000" maxFrequency="26100000" mode="NFM" step="10" color="purple">RADIODIFUSION P</RangeEntry>
+       <RangeEntry minFrequency="26100000" maxFrequency="26175000" mode="NFM" step="10" color="purple">MOVIL MARITIMO M</RangeEntry>
+       <RangeEntry minFrequency="26175000" maxFrequency="26200000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="26200000" maxFrequency="26350000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="26350000" maxFrequency="27500000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="26200000" maxFrequency="26350000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="26350000" maxFrequency="27500000" mode="NFM" step="10" color="purple">FIJO MOVIL SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="28000000" maxFrequency="7000000" mode="NFM" step="10" color="purple">AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="39000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="39000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="40000000" maxFrequency="2000000" mode="NFM" step="10" color="purple">FIJO MOVIL INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="42000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO MOVIL R</RangeEntry>
+       <RangeEntry minFrequency="42000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="42000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="44000000" maxFrequency="47000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="44000000" maxFrequency="46000000" mode="NFM" step="10" color="purple">FIJO MOVIL R</RangeEntry>
+       <RangeEntry minFrequency="46000000" maxFrequency="47000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="47000000" maxFrequency="68000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="47000000" maxFrequency="50000000" mode="NFM" step="10" color="purple">FIJO MOVIL USOS</RangeEntry>
+       <RangeEntry minFrequency="47000000" maxFrequency="50000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="47000000" maxFrequency="68000000" mode="NFM" step="10" color="purple">MOVIL TERRESTRE RADIOLOCALIZACION M</RangeEntry>
+       <RangeEntry minFrequency="50000000" maxFrequency="54000000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="68000000" maxFrequency="8000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="54000000" maxFrequency="68000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="54000000" maxFrequency="68000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="68000000" maxFrequency="72000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="68000000" maxFrequency="8000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="73000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="72000000" maxFrequency="73000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="76000000" maxFrequency="88000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="87000000" maxFrequency="100000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="88000000" maxFrequency="100000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="5000000" maxFrequency="108000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="100000000" maxFrequency="108000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="108000000" maxFrequency="975000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="108000000" maxFrequency="975000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA ATRIBUCION A SERVICIOS (R. UIT)</RangeEntry>
+       <RangeEntry minFrequency="137000000" maxFrequency="21000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="137000000" maxFrequency="21000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) METEOROLOGIA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="138000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR)</RangeEntry>
+       <RangeEntry minFrequency="138000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="138000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">FIJO MOVIL INVESTIGACION ESPACIAL (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="138000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (OR) MOVIL TERRESTRE MOVIL MARITIMO</RangeEntry>
+       <RangeEntry minFrequency="144000000" maxFrequency="146000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="146000000" maxFrequency="148000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R)</RangeEntry>
+       <RangeEntry minFrequency="146000000" maxFrequency="148000000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="146000000" maxFrequency="148000000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="144000000" maxFrequency="146000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE E</RangeEntry>
+       <RangeEntry minFrequency="146000000" maxFrequency="148000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) (R) FIJO M</RangeEntry>
+       <RangeEntry minFrequency="148000000" maxFrequency="9000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R) MOVIL POR</RangeEntry>
+       <RangeEntry minFrequency="148000000" maxFrequency="9000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="148000000" maxFrequency="9000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R) MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="153000000" maxFrequency="154000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R) AYUDAS A LA METEOROLOGIA</RangeEntry>
+       <RangeEntry minFrequency="153000000" maxFrequency="154000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R) AYUDAS A LA METEOROLOGIA</RangeEntry>
+       <RangeEntry minFrequency="154000000" maxFrequency="4875000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R)</RangeEntry>
+       <RangeEntry minFrequency="154000000" maxFrequency="4875000000" mode="NFM" step="10" color="purple">FIJO MOVIL USOS</RangeEntry>
+       <RangeEntry minFrequency="154000000" maxFrequency="4875000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="154000000" maxFrequency="4875000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) (R) M</RangeEntry>
+       <RangeEntry minFrequency="9625000000" maxFrequency="9875000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="174000000" maxFrequency="223000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="174000000" maxFrequency="216000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="174000000" maxFrequency="223000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="174000000" maxFrequency="223000000" mode="NFM" step="10" color="purple">RADIODIFUSION MOVIL TERRESTRE P</RangeEntry>
+       <RangeEntry minFrequency="216000000" maxFrequency="220000000" mode="NFM" step="10" color="purple">FIJO MOVIL MARITIMO RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="223000000" maxFrequency="230000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="223000000" maxFrequency="230000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="230000000" maxFrequency="235000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="230000000" maxFrequency="235000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="220000000" maxFrequency="225000000" mode="NFM" step="10" color="purple">AFICIONADOS FIJO MOVIL - RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="235000000" maxFrequency="267000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="223000000" maxFrequency="230000000" mode="NFM" step="10" color="purple">RADIODIFUSION MOVIL TERRESTRE P</RangeEntry>
+       <RangeEntry minFrequency="230000000" maxFrequency="235000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="235000000" maxFrequency="267000000" mode="NFM" step="10" color="purple">FIJO MOVIL R</RangeEntry>
+       <RangeEntry minFrequency="267000000" maxFrequency="272000000" mode="NFM" step="10" color="purple">FIJO MOVIL OPERACIONES ESPACIALES (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="267000000" maxFrequency="272000000" mode="NFM" step="10" color="purple">FIJO MOVIL OPERACIONES ESPACIALES (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="272000000" maxFrequency="273000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="272000000" maxFrequency="273000000" mode="NFM" step="10" color="purple">ATRIBUCION A LOS SERVICIOS SEGUN EL RR DE LA UIT</RangeEntry>
+       <RangeEntry minFrequency="273000000" maxFrequency="312000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="312000000" maxFrequency="315000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="315000000" maxFrequency="322000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="322000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="273000000" maxFrequency="312000000" mode="NFM" step="10" color="purple">FIJO MOVIL R</RangeEntry>
+       <RangeEntry minFrequency="312000000" maxFrequency="315000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="315000000" maxFrequency="322000000" mode="NFM" step="10" color="purple">FIJO MOVIL R</RangeEntry>
+       <RangeEntry minFrequency="322000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="387000000" maxFrequency="390000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="390000000" maxFrequency="9000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="387000000" maxFrequency="390000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="390000000" maxFrequency="9000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="401000000" maxFrequency="402000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA OPERACIONES ESPACIALES (ESPACIO - TIERRA) EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="402000000" maxFrequency="403000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO) METEOROLOGIA POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="403000000" maxFrequency="406000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="401000000" maxFrequency="402000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA OPERACIONES ESPACIALES (ESPACIO - TIERRA) EXPLORACION DE LA TIERRA</RangeEntry>
+       <RangeEntry minFrequency="402000000" maxFrequency="403000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA METEOROLOGIA POR SATELITE (TIERRA - ESPACIO) EXPLORACION DE LA TIERRA</RangeEntry>
+       <RangeEntry minFrequency="403000000" maxFrequency="406000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="406000000" maxFrequency="1000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="406000000" maxFrequency="1000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRAESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="420000000" maxFrequency="430000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="430000000" maxFrequency="432000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="410000000" maxFrequency="420000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) INVESTIGACION ESPACIAL (ESPACIO%ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="420000000" maxFrequency="430000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="430000000" maxFrequency="432000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION E</RangeEntry>
+       <RangeEntry minFrequency="432000000" maxFrequency="438000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION EXPLORACION DE LA TIERRA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="432000000" maxFrequency="438000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="438000000" maxFrequency="440000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="438000000" maxFrequency="440000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="430000000" maxFrequency="432000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION USOS</RangeEntry>
+       <RangeEntry minFrequency="432000000" maxFrequency="438000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION EXPLORACION DE LA TIERRA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="438000000" maxFrequency="440000000" mode="NFM" step="10" color="purple">AFICIONADOS RADIOLOCALIZACION E</RangeEntry>
+       <RangeEntry minFrequency="440000000" maxFrequency="450000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="440000000" maxFrequency="450000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="450000000" maxFrequency="455000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="455000000" maxFrequency="456000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="450000000" maxFrequency="455000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="455000000" maxFrequency="456000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="455000000" maxFrequency="456000000" mode="NFM" step="10" color="purple">FIJO MOVIL - MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="455000000" maxFrequency="456000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="456000000" maxFrequency="459000000" mode="NFM" step="10" color="purple">FIJO MOVIL FIJO</RangeEntry>
+       <RangeEntry minFrequency="459000000" maxFrequency="460000000" mode="NFM" step="10" color="purple">FIJO MOVIL - MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="459000000" maxFrequency="460000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="459000000" maxFrequency="460000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="459000000" maxFrequency="460000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="470000000" maxFrequency="512000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="512000000" maxFrequency="608000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="694000000" maxFrequency="790000000" mode="NFM" step="10" color="purple">MOVIL (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="608000000" maxFrequency="614000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA MOVIL POR SATELITE, (NO AERO.) POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="614000000" maxFrequency="698000000" mode="NFM" step="10" color="purple">RADIODIFUSION FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="470000000" maxFrequency="585000000" mode="NFM" step="10" color="purple">FIJO MOVIL - RADIODIFUSON</RangeEntry>
+       <RangeEntry minFrequency="460000000" maxFrequency="470000000" mode="NFM" step="10" color="purple">FIJO MOVIL METEOROLOGIA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="470000000" maxFrequency="694000000" mode="NFM" step="10" color="purple">RADIODIFUSION MOVIL TERRESTRE M</RangeEntry>
+       <RangeEntry minFrequency="585000000" maxFrequency="610000000" mode="NFM" step="10" color="purple">FIJO MOVIL - RADIODIFUSION - RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="610000000" maxFrequency="890000000" mode="NFM" step="10" color="purple">FIJO MOVIL - RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="694000000" maxFrequency="790000000" mode="NFM" step="10" color="purple">RADIODIFUSION MOVIL, (NO AERO.) P</RangeEntry>
+       <RangeEntry minFrequency="698000000" maxFrequency="806000000" mode="NFM" step="10" color="purple">MOVIL - RADIODIFUSION FIJO</RangeEntry>
+       <RangeEntry minFrequency="470000000" maxFrequency="694000000" mode="NFM" step="10" color="purple">RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="790000000" maxFrequency="862000000" mode="NFM" step="10" color="purple">FIJO MOVIL (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="790000000" maxFrequency="862000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) P</RangeEntry>
+       <RangeEntry minFrequency="806000000" maxFrequency="890000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="862000000" maxFrequency="890000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) - RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="862000000" maxFrequency="890000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="890000000" maxFrequency="942000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="890000000" maxFrequency="902000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="890000000" maxFrequency="942000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIODIFUSION RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="890000000" maxFrequency="942000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="902000000" maxFrequency="928000000" mode="NFM" step="10" color="purple">FIJO AFICIONADOS MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="928000000" maxFrequency="942000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="942000000" maxFrequency="960000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="942000000" maxFrequency="960000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="942000000" maxFrequency="960000000" mode="NFM" step="10" color="purple">FIJO MOVIL (NO AERO.) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="960000000" maxFrequency="1164000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="1164000000" maxFrequency="1215000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA - RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA) (ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1215000000" maxFrequency="1240000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1164000000" maxFrequency="1215000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1215000000" maxFrequency="1240000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA) (ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1240000000" maxFrequency="1300000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1240000000" maxFrequency="1300000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA) (ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1300000000" maxFrequency="1350000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA - RADIONAVEGACION POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1300000000" maxFrequency="1350000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR</RangeEntry>
+       <RangeEntry minFrequency="1350000000" maxFrequency="1400000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1350000000" maxFrequency="1400000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1350000000" maxFrequency="1400000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="1400000000" maxFrequency="1427000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="1427000000" maxFrequency="1429000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (TIERRA - ESPACIO)FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1400000000" maxFrequency="1427000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="1427000000" maxFrequency="1429000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (TIERRA - ESPACIO) FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1429000000" maxFrequency="1452000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) M</RangeEntry>
+       <RangeEntry minFrequency="1429000000" maxFrequency="1452000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1429000000" maxFrequency="1452000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1452000000" maxFrequency="1492000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1452000000" maxFrequency="1492000000" mode="NFM" step="10" color="purple">FIJO MOVIL - RADIODIFUSION SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1452000000" maxFrequency="1492000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="1492000000" maxFrequency="1518000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1492000000" maxFrequency="1518000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1492000000" maxFrequency="1518000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1518000000" maxFrequency="1525000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) - MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1518000000" maxFrequency="1525000000" mode="NFM" step="10" color="purple">FIJO MOVIL - MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1518000000" maxFrequency="1525000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1492000000" maxFrequency="1518000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) M</RangeEntry>
+       <RangeEntry minFrequency="1518000000" maxFrequency="1525000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1525000000" maxFrequency="1530000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="1525000000" maxFrequency="1530000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) MOVIL POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1525000000" maxFrequency="1530000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="1530000000" maxFrequency="1535000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) MOVIL POR</RangeEntry>
+       <RangeEntry minFrequency="1530000000" maxFrequency="1535000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) MOVIL POR SATELITE (ESPACIO - TIERRA) EXPLORACION DE LA TIERRA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1525000000" maxFrequency="1530000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) FIJO MOVIL POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1530000000" maxFrequency="1535000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1535000000" maxFrequency="1559000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1535000000" maxFrequency="1559000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (ESPACIO - TIERRA) M</RangeEntry>
+       <RangeEntry minFrequency="1559000000" maxFrequency="1610000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA) (ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1559000000" maxFrequency="1610000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1610000000" maxFrequency="6000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO) RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="8000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1660000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO) RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="1660000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO) RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="1668000000" maxFrequency="4000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="1668000000" maxFrequency="4000000" mode="NFM" step="10" color="purple">MOVIL POR SATELITE (TIERRA - ESPACIO)RADIOASTRONOMIA INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="1670000000" maxFrequency="1675000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1670000000" maxFrequency="1675000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO METEOROLOGIA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1675000000" maxFrequency="1690000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1675000000" maxFrequency="1690000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA FIJO METEOROLOGIA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1690000000" maxFrequency="1700000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA METEOROLOGIA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1690000000" maxFrequency="1700000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA METEOROLOGIA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="1700000000" maxFrequency="1710000000" mode="NFM" step="10" color="purple">FIJO METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1690000000" maxFrequency="1700000000" mode="NFM" step="10" color="purple">AYUDAS A LA METEOROLOGIA METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="1700000000" maxFrequency="1710000000" mode="NFM" step="10" color="purple">FIJO METEOROLOGIA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="1700000000" maxFrequency="1710000000" mode="NFM" step="10" color="purple">METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) FIJO MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="1710000000" maxFrequency="1930000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1710000000" maxFrequency="1930000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="1930000000" maxFrequency="1970000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="1930000000" maxFrequency="1970000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1930000000" maxFrequency="1970000000" mode="NFM" step="10" color="purple">FIJO MOVIL- MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="1930000000" maxFrequency="1970000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1970000000" maxFrequency="1980000000" mode="NFM" step="10" color="purple">FIJO MOVIL FIJO</RangeEntry>
+       <RangeEntry minFrequency="1980000000" maxFrequency="2010000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2010000000" maxFrequency="2025000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2010000000" maxFrequency="2025000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2010000000" maxFrequency="2025000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="1980000000" maxFrequency="2010000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2010000000" maxFrequency="2025000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="2025000000" maxFrequency="2110000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (TIERRA - ESPACIO)(ESPACIO - ESPACIO) EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO)(ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2110000000" maxFrequency="2120000000" mode="NFM" step="10" color="purple">FIJO MOVIL - INVESTIGACION ESPACIAL (ESPACIO LEJANO) (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2025000000" maxFrequency="2110000000" mode="NFM" step="10" color="purple">FIJO MOVIL OPERACIONES ESPACIALES (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2110000000" maxFrequency="2120000000" mode="NFM" step="10" color="purple">FIJO MOVIL INVESTIGACION ESPACIAL (ESPACIO LEJANO)</RangeEntry>
+       <RangeEntry minFrequency="2120000000" maxFrequency="2160000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2120000000" maxFrequency="2160000000" mode="NFM" step="10" color="purple">FIJO MOVIL - MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2120000000" maxFrequency="2160000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2160000000" maxFrequency="2170000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2160000000" maxFrequency="2170000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2160000000" maxFrequency="2170000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2120000000" maxFrequency="2160000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2160000000" maxFrequency="2170000000" mode="NFM" step="10" color="purple">FIJO MOVIL M</RangeEntry>
+       <RangeEntry minFrequency="2170000000" maxFrequency="2200000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2200000000" maxFrequency="2290000000" mode="NFM" step="10" color="purple">OPERACIONES ESPACIALES (ESPACIO - TIERRA) (ESPACIO - ESPACIO) EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) (ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2300000000" maxFrequency="2450000000" mode="NFM" step="10" color="purple">FIJO - MOVIL - AFICIONADOS - RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="2200000000" maxFrequency="2290000000" mode="NFM" step="10" color="purple">FIJO - MOVIL OPERACIONES ESPACIALES (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2290000000" maxFrequency="2300000000" mode="NFM" step="10" color="purple">FIJO - MOVIL (NO AERO.) INVESTIGACION ESPACIAL (ESPACIO LEJANO)</RangeEntry>
+       <RangeEntry minFrequency="2300000000" maxFrequency="2450000000" mode="NFM" step="10" color="purple">FIJO - MOVIL - RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="2300000000" maxFrequency="2450000000" mode="NFM" step="10" color="purple">FIJO - MOVIL AFICIONADOS RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="2450000000" maxFrequency="5000000" mode="NFM" step="10" color="purple">FIJO - MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="2500000000" maxFrequency="2520000000" mode="NFM" step="10" color="purple">FIJO - MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="2500000000" maxFrequency="2520000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) - MOVIL</RangeEntry>
+       <RangeEntry minFrequency="2500000000" maxFrequency="2520000000" mode="NFM" step="10" color="purple">FIJO MOVIL (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="2520000000" maxFrequency="2655000000" mode="NFM" step="10" color="purple">FIJO - MOVIL (NO AERO.) - RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2520000000" maxFrequency="2655000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO MOVIL)</RangeEntry>
+       <RangeEntry minFrequency="2655000000" maxFrequency="2670000000" mode="NFM" step="10" color="purple">FIJO - MOVIL, (NO AERO.) - RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2655000000" maxFrequency="2670000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)(ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2520000000" maxFrequency="2535000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2535000000" maxFrequency="2655000000" mode="NFM" step="10" color="purple">FIJO - MOVIL, (NO AERO.) 5.384A RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="2655000000" maxFrequency="2670000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="2520000000" maxFrequency="2655000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) FIJO P</RangeEntry>
+       <RangeEntry minFrequency="2655000000" maxFrequency="2670000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) FIJO P</RangeEntry>
+       <RangeEntry minFrequency="2670000000" maxFrequency="2690000000" mode="NFM" step="10" color="purple">FIJO - MOVIL, (NO AERO.) - EXPLORACION DE LA TIERRA</RangeEntry>
+       <RangeEntry minFrequency="2670000000" maxFrequency="2690000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)(ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="2690000000" maxFrequency="2700000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="2670000000" maxFrequency="2690000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) FIJO P</RangeEntry>
+       <RangeEntry minFrequency="2690000000" maxFrequency="2700000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="2700000000" maxFrequency="2900000000" mode="NFM" step="10" color="purple">RADIONAVEGACION AERONAUTICA RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="2900000000" maxFrequency="3100000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION R</RangeEntry>
+       <RangeEntry minFrequency="3100000000" maxFrequency="3300000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION EXPLORACION DE LA TIERRA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="3300000000" maxFrequency="3400000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="3300000000" maxFrequency="3400000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="3300000000" maxFrequency="3400000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="3100000000" maxFrequency="3300000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) INVESTIGACION ESPACIAL (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="3300000000" maxFrequency="3400000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="3400000000" maxFrequency="3600000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO MOVIL)</RangeEntry>
+       <RangeEntry minFrequency="3600000000" maxFrequency="4200000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="3400000000" maxFrequency="3500000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3400000000" maxFrequency="3500000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="3500000000" maxFrequency="3600000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3500000000" maxFrequency="3600000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3600000000" maxFrequency="3700000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3600000000" maxFrequency="3700000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3400000000" maxFrequency="3600000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="3600000000" maxFrequency="4200000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="4200000000" maxFrequency="4400000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="4500000000" maxFrequency="4800000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) - MOVIL</RangeEntry>
+       <RangeEntry minFrequency="4400000000" maxFrequency="4500000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="4500000000" maxFrequency="4800000000" mode="NFM" step="10" color="purple">FIJO MOVIL FIJO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="4800000000" maxFrequency="4990000000" mode="NFM" step="10" color="purple">FIJO MOVIL - RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="4990000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="5000000000" maxFrequency="5010000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) POR SATELITE - RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="5010000000" maxFrequency="5030000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) POR SATELITE - RADIONAVEGACION AERONAUTICA RADIONAVEGACION POR SATELITE (TIERRA - ESPACIO)(ESPACIO - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="5030000000" maxFrequency="5091000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) MOVIL AERONAUTICO (R) POR SATELITE - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5000000000" maxFrequency="5010000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) POR SATELITE RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5010000000" maxFrequency="5030000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) POR SATELITE RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5030000000" maxFrequency="5091000000" mode="NFM" step="10" color="purple">MOVIL AERONAUTICO (R) MOVIL AERONAUTICO (R) POR SATELITE RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="5091000000" maxFrequency="5150000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) - MOVIL AERONAUTICO - MOVIL AERONAUTICO (R) POR SATELITE - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5150000000" maxFrequency="5250000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) - MOVIL, (NO AERO.) - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5091000000" maxFrequency="5150000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL AERONAUTICO MOVIL AERONAUTICO (R) POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="5150000000" maxFrequency="5250000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL, (NO AERO.) RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="5250000000" maxFrequency="5350000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) MOVIL, (NO AERO.) RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="5350000000" maxFrequency="5460000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE - RADIOLOCALIZACION - RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="5350000000" maxFrequency="5460000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="5460000000" maxFrequency="5470000000" mode="NFM" step="10" color="purple">RADIONAVEGACION - EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) INVESTIGACION ESPACIAL (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="5460000000" maxFrequency="5470000000" mode="NFM" step="10" color="purple">RADIONAVEGACION EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="5470000000" maxFrequency="5570000000" mode="NFM" step="10" color="purple">RADIONAVEGACION MARITIMA MOVIL, (NO AERO.) - EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="5470000000" maxFrequency="5570000000" mode="NFM" step="10" color="purple">RADIONAVEGACION MARITIMA MOVIL, (NO AERO.) EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="5650000000" maxFrequency="5725000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) - RADIOLOCALIZACION AFICIONADOS - INVESTIGACION ESPACIAL (ESPACIO LEJANO)</RangeEntry>
+       <RangeEntry minFrequency="5725000000" maxFrequency="5830000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="5570000000" maxFrequency="5650000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) RADIOLOCALIZACION RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="5650000000" maxFrequency="5725000000" mode="NFM" step="10" color="purple">MOVIL, (NO AERO.) RADIOLOCALIZACION AFICIONADOS INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="5725000000" maxFrequency="5830000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="5830000000" maxFrequency="5850000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION - AFICIONADOS - AFICIONADOS POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="5850000000" maxFrequency="5925000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="5725000000" maxFrequency="5830000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="5830000000" maxFrequency="5850000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="5850000000" maxFrequency="5925000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL</RangeEntry>
+       <RangeEntry minFrequency="5830000000" maxFrequency="5850000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)RADIOLOCALIZACION AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="5850000000" maxFrequency="5925000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL</RangeEntry>
+       <RangeEntry minFrequency="5925000000" maxFrequency="6700000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="5925000000" maxFrequency="6700000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="6700000000" maxFrequency="7075000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)(ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="6700000000" maxFrequency="7075000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)(ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="7075000000" maxFrequency="7145000000" mode="NFM" step="10" color="purple">FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7145000000" maxFrequency="7190000000" mode="NFM" step="10" color="purple">FIJO MOVIL INVESTIGACION ESPACIAL (ESPACIO LEJANO) (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="7190000000" maxFrequency="7235000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (TIERRAESPACIO) - FIJO MOVIL INVESTIGACION ESPACIAL (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="7190000000" maxFrequency="7235000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO) - FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7235000000" maxFrequency="7250000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO) FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7235000000" maxFrequency="7250000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA ..POR SATELITE (TIERRA - ESPACIO) FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7250000000" maxFrequency="7300000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7300000000" maxFrequency="7375000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="7375000000" maxFrequency="7450000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.) MOVIL MARITIMO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="7450000000" maxFrequency="7550000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="7550000000" maxFrequency="7750000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.) MOVIL MARITIMO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="7550000000" maxFrequency="7750000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="7750000000" maxFrequency="7900000000" mode="NFM" step="10" color="purple">FIJO - METEOROLOGIA POR SATELITE (ESPACIO - TIERRA) MOVIL, (NO AERO.)</RangeEntry>
+       <RangeEntry minFrequency="7900000000" maxFrequency="8025000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="7900000000" maxFrequency="8025000000" mode="NFM" step="10" color="purple">FIJO - FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="8025000000" maxFrequency="8175000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="8175000000" maxFrequency="8215000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="8025000000" maxFrequency="8175000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="8175000000" maxFrequency="8215000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="8215000000" maxFrequency="8400000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO - FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="8400000000" maxFrequency="8500000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) INVESTIGACION ESPACIAL (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="8215000000" maxFrequency="8400000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA) FIJO</RangeEntry>
+       <RangeEntry minFrequency="8400000000" maxFrequency="8500000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO AERO.) INVESTIGACION ESPACIAL (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="8500000000" maxFrequency="8550000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="8500000000" maxFrequency="8550000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="8550000000" maxFrequency="8650000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="8650000000" maxFrequency="8750000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="8750000000" maxFrequency="8850000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="8750000000" maxFrequency="8850000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="8850000000" maxFrequency="9000000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="9000000000" maxFrequency="9200000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="9200000000" maxFrequency="9300000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) - RADIOLOCALIZACION RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="8850000000" maxFrequency="9000000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="9000000000" maxFrequency="9200000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION RADIONAVEGACION AERONAUTICA</RangeEntry>
+       <RangeEntry minFrequency="9200000000" maxFrequency="9300000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION MARITIMA</RangeEntry>
+       <RangeEntry minFrequency="9300000000" maxFrequency="9500000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="9500000000" maxFrequency="9800000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="9800000000" maxFrequency="9900000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION - EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) FIJO INVESTIGACION ESPACIAL (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="9900000000" maxFrequency="10000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) - RADIOLOCALIZACION FIJO</RangeEntry>
+       <RangeEntry minFrequency="9900000000" maxFrequency="10000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION FIJO</RangeEntry>
+       <RangeEntry minFrequency="10000000000" maxFrequency="4000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) FIJO</RangeEntry>
+       <RangeEntry minFrequency="6000000000" maxFrequency="68000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="2000000000" maxFrequency="45000000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="14000000000" maxFrequency="25000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)RADIONAVEGACION MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="4000000000" maxFrequency="47000000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="8000000000" maxFrequency="35000000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="22000000000" maxFrequency="21000000000" mode="NFM" step="10" color="purple">FIJO MOVIL, SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="22000000000" maxFrequency="21000000000" mode="NFM" step="10" color="purple">FIJO MOVIL, SALVO MOVIL AERONAUTICO M</RangeEntry>
+       <RangeEntry minFrequency="24000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="24000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE UN-91 CANALIZACION</RangeEntry>
+       <RangeEntry minFrequency="27000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO ENTRE SATELITES - MOVIL</RangeEntry>
+       <RangeEntry minFrequency="27000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)ENTRE SATELITES - MOVIL</RangeEntry>
+       <RangeEntry minFrequency="27000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO ENTRE SATELITES MOVIL</RangeEntry>
+       <RangeEntry minFrequency="30000000000" maxFrequency="31000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL POR SATELITE (TIERRA - ESPACIO) FRECUENCIAS PATRON Y SEñALES HORARIAS POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="9000000000" maxFrequency="30000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="30000000000" maxFrequency="31000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="31000000000" maxFrequency="3000000000" mode="NFM" step="10" color="purple">FIJO MOVIL FRECUENCIAS PATRON Y SEñALES HORARIAS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="32000000000" maxFrequency="3000000000" mode="NFM" step="10" color="purple">FIJO - RADIONAVEGACION INVESTIGACION ESPACIAL (ESPACIO LEJANO) (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="32000000000" maxFrequency="3000000000" mode="NFM" step="10" color="purple">FIJO RADIONAVEGACION INVESTIGACION ESPACIAL (ESPACIO LEJANO)</RangeEntry>
+       <RangeEntry minFrequency="33000000000" maxFrequency="4000000000" mode="NFM" step="10" color="purple">FIJO RADIONAVEGACION P</RangeEntry>
+       <RangeEntry minFrequency="33000000000" maxFrequency="4000000000" mode="NFM" step="10" color="purple">FIJO - RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="36000000000" maxFrequency="37000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) FIJO MOVIL</RangeEntry>
+       <RangeEntry minFrequency="37000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO MOVIL, (NO M. AERO) INVESTIGACION ESPACIAL (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="38000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL EXPLORACION DE LA TIERRA POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="38000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="40000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (TIERRA - ESPACIO) FIJO FIJO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="41000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) - RADIODIFUSION RADIODIFUSION POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="5000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="47000000000" maxFrequency="2000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="2000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO</RangeEntry>
+       <RangeEntry minFrequency="57000000000" maxFrequency="2000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) FIJO ENTRE SATELITES</RangeEntry>
+       <RangeEntry minFrequency="59000000000" maxFrequency="3000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) ENTRE SATELITES FIJO</RangeEntry>
+       <RangeEntry minFrequency="64000000000" maxFrequency="65000000000" mode="NFM" step="10" color="purple">FIJO ENTRE SATELITES MOVIL, SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="65000000000" maxFrequency="66000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE FIJO ENTRE SATELITES MOVIL, SALVO MOVIL AERONAUTICO</RangeEntry>
+       <RangeEntry minFrequency="65000000000" maxFrequency="66000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) ENTRE SATELITES FIJO</RangeEntry>
+       <RangeEntry minFrequency="66000000000" maxFrequency="71000000000" mode="NFM" step="10" color="purple">ENTRE SATELITES MOVIL - MOVIL POR SATELITE RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="71000000000" maxFrequency="74000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="74000000000" maxFrequency="76000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL RADIODIFUSION</RangeEntry>
+       <RangeEntry minFrequency="76000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="66000000000" maxFrequency="71000000000" mode="NFM" step="10" color="purple">ENTRE SATELITES MOVIL MOVIL POR SATELITE RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="71000000000" maxFrequency="74000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="74000000000" maxFrequency="76000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="76000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA - RADIOLOCALIZACION - AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="5000000000" maxFrequency="78000000000" mode="NFM" step="10" color="purple">AFICIONADOS</RangeEntry>
+       <RangeEntry minFrequency="78000000000" maxFrequency="79000000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="79000000000" maxFrequency="81000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="78000000000" maxFrequency="79000000000" mode="NFM" step="10" color="purple">RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="79000000000" maxFrequency="81000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="81000000000" maxFrequency="84000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="84000000000" maxFrequency="86000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (TIERRA - ESPACIO) MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="86000000000" maxFrequency="92000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="92000000000" maxFrequency="94000000000" mode="NFM" step="10" color="purple">FIJO - MOVIL RADIOASTRONOMIA RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="94000000000" maxFrequency="1000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) RADIOLOCALIZACION INVESTIGACION ESPACIAL (ACTIVO)</RangeEntry>
+       <RangeEntry minFrequency="86000000000" maxFrequency="92000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="92000000000" maxFrequency="94000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="94000000000" maxFrequency="1000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOLOCALIZACION INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="95000000000" maxFrequency="100000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="100000000000" maxFrequency="102000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="102000000000" maxFrequency="105000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="105000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="116000000000" maxFrequency="98000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) ENTRE SATELITES - INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="123000000000" maxFrequency="130000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL POR SATELITE (ESPACIO - TIERRA) RADIONAVEGACION RADIONAVEGACION POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="130000000000" maxFrequency="134000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) - FIJO ENTRE SATELITES</RangeEntry>
+       <RangeEntry minFrequency="123000000000" maxFrequency="130000000000" mode="NFM" step="10" color="purple">FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="130000000000" maxFrequency="134000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (ACTIVO) FIJO ENTRE SATELITES</RangeEntry>
+       <RangeEntry minFrequency="134000000000" maxFrequency="136000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="136000000000" maxFrequency="141000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="141000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOASTRONOMIA RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="164000000000" maxFrequency="167000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="167000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) ENTRE SATELITES MOVIL</RangeEntry>
+       <RangeEntry minFrequency="182000000000" maxFrequency="185000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="182000000000" maxFrequency="185000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="185000000000" maxFrequency="190000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) ENTRE SATELITES - INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="190000000000" maxFrequency="8000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="190000000000" maxFrequency="8000000000" mode="NFM" step="10" color="purple">MOVIL</RangeEntry>
+       <RangeEntry minFrequency="200000000000" maxFrequency="209000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="200000000000" maxFrequency="209000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="209000000000" maxFrequency="217000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="209000000000" maxFrequency="217000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL</RangeEntry>
+       <RangeEntry minFrequency="217000000000" maxFrequency="226000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="226000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="217000000000" maxFrequency="226000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL</RangeEntry>
+       <RangeEntry minFrequency="226000000000" maxFrequency="5000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL</RangeEntry>
+       <RangeEntry minFrequency="235000000000" maxFrequency="238000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) FIJO POR SATELITE (ESPACIO - TIERRA) INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="238000000000" maxFrequency="240000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL RADIONAVEGACION</RangeEntry>
+       <RangeEntry minFrequency="232000000000" maxFrequency="235000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="235000000000" maxFrequency="238000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) FIJO POR SATELITE (ESPACIO - TIERRA)</RangeEntry>
+       <RangeEntry minFrequency="238000000000" maxFrequency="240000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (ESPACIO - TIERRA) MOVIL</RangeEntry>
+       <RangeEntry minFrequency="240000000000" maxFrequency="241000000000" mode="NFM" step="10" color="purple">FIJO MOVIL RADIOLOCALIZACION</RangeEntry>
+       <RangeEntry minFrequency="241000000000" maxFrequency="248000000000" mode="NFM" step="10" color="purple">RADIOASTRONOMIA RADIOLOCALIZACION AFICIONADOS AFICIONADOS POR SATELITE</RangeEntry>
+       <RangeEntry minFrequency="248000000000" maxFrequency="250000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="248000000000" maxFrequency="250000000000" mode="NFM" step="10" color="purple">AFICIONADOS AFICIONADOS POR SATELITE RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="250000000000" maxFrequency="252000000000" mode="NFM" step="10" color="purple">EXPLORACION DE LA TIERRA POR SATELITE (PASIVO) RADIOASTRONOMIA INVESTIGACION ESPACIAL (PASIVO)</RangeEntry>
+       <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="265000000000" maxFrequency="275000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL RADIOASTRONOMIA</RangeEntry>
+       <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="NFM" step="10" color="purple">FIJO MOVIL MOVIL POR SATELITE (TIERRA - ESPACIO)</RangeEntry>
+       <RangeEntry minFrequency="265000000000" maxFrequency="275000000000" mode="NFM" step="10" color="purple">FIJO FIJO POR SATELITE (TIERRA - ESPACIO)MOVIL</RangeEntry>
+</ArrayOfRangeEntry>
